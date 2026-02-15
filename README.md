@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 i'm 
 * 17 years old.
 * high school student.
-* preparing for CCNA.
+* currently studying for CCNA.
 * python programmer.
 * looks forward to becoming Computer Engineer.
 
