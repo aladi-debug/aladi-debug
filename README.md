@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'M Abdelhadi ALI (you can call me Aladi)
 
 <!--
 **aladi-debug/aladi-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+i'm 
+* a 17 years old.
+* high school student.
+* preparing for CCNA.
+* python programmer.
+* looks forward to becoming Computer Engineer.
+
