@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 i'm 
-* a 17 years old.
+* 17 years old.
 * high school student.
 * preparing for CCNA.
 * python programmer.
