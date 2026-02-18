@@ -20,5 +20,4 @@ i'm
 * high school student.
 * currently studying for CCNA.
 * python programmer.
-* looks forward to becoming Computer Engineer.
-
+* looks forward to major Electrical Engineering and minor in Computer Science
