@@ -1,4 +1,4 @@
-## Hi there 👋 I'M Abdihadi ALI (you can call me Aladi)
+## Hi there 👋 I'M Abdihadi AlI (you can call me Aladi)
 
 <!--
 **aladi-debug/aladi-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
