@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 i'm 
-* 17 years old.
 * high school student.
 * currently studying for CCNA.
 * python programmer.
 * looks forward to major in Electrical Engineering and Computer Science
+
+- 📫 you can reach out to me at studytechnology55@gmail.com 
