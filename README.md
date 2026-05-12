@@ -1,6 +1,6 @@
 # Aladi-debug 🐛✨
 
-> *"If it runs, GOOD. If it doesn't, add more print statements."*
+> *"If it runs, GOOD. But If it doesn't 😈, just add more print statements 😇."*
 
 I'm a developer who touches everything — web, scripts, automation, whatever needs breaking but to use the correct words, i'll say fixing 😏.
 
