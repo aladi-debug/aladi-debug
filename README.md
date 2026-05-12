@@ -1,24 +1,15 @@
-## Hi there 👋 I'M Abdihadi Ali (you can call me Aladi)
+# Aladi-debug 🐛✨
 
-<!--
-**aladi-debug/aladi-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"If it runs, ship it. If it doesn't, add more print statements."*
 
-Here are some ideas to get you started:
+I'm a developer who touches everything — web, scripts, automation, whatever needs breaking but to use the correct words, i'll say fixing 😏.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-i'm 
-* high school student.
-* currently studying for CCNA.
-* python programmer.
-* looks forward to major in Electrical Engineering and Computer Science
 
-- 📫 you can reach out to me at studytechnology55@gmail.com 
+### <img width="25" height="30" alt="image" src="https://github.com/user-attachments/assets/8b273576-fe51-4ca5-8d98-c2be967ce477" />   My Weapons of Choice
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,linux,tailwind,bootstrap," />
+</p>
+
+
