@@ -9,7 +9,7 @@ I'm a developer who touches everything — web, scripts, automation, whatever ne
 ### <img width="25" height="30" alt="image" src="https://github.com/user-attachments/assets/8b273576-fe51-4ca5-8d98-c2be967ce477" />   My Weapons of Choice
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,jquery,tailwind," />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,jquery,tailwind,scss " />
 </p>
 
 
