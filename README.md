@@ -1,15 +1,13 @@
-# Aladi-debug 🐛✨
-
-> *"If it runs, GOOD. But If it doesn't 😈, just add more print statements 😇."*
-
-I'm a developer who touches everything — web, scripts, automation, whatever needs breaking but to use the correct words, i'll say fixing 😏.
+# Aladi-debug ✨
 
 
+I'm a programmer who touches everything - including but not limited to - web, scripts, automation, and much more.
 
-### <img width="25" height="30" alt="image" src="https://github.com/user-attachments/assets/8b273576-fe51-4ca5-8d98-c2be967ce477" />   My Weapons of Choice
 
+
+### <img width="25" height="30" alt="image" src="https://github.com/user-attachments/assets/8b273576-fe51-4ca5-8d98-c2be967ce477"  />    Tools 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,jquery,tailwind,scss,bootstrap,linux,bash,vscode,npm " />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,jquery,tailwind,scss,linux,bash,vscode,npm " /> 
 </p>
 
 
