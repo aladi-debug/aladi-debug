@@ -1,4 +1,7 @@
-# Aladi-debug ✨
+
+I like programming
+
+<!--# Aladi-debug ✨
 
 
 I'm a programmer who touches everything - including but not limited to - web, scripts, automation, and much more.
